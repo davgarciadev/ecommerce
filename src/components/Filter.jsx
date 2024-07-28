@@ -1,21 +1,22 @@
 /* eslint-disable react/prop-types */
 import { useState } from "react"
 import "./Filter.css"
+import { useFilter } from "../hooks/useFilter";
 
-export function Filter({changeFilter}){
+export function Filter(){
     console.log("render [Filter]")
     const [minPrice, setMinPrice] = useState(0);
+    const {setFilters} = useFilter()
 
     const handleMinPrice = (e) => {
         const currentPrice = e.target.value;
         setMinPrice(currentPrice)
     }
 
-
-
+    
     const handleFilterByPrice = (e) => {
 
-    changeFilter((prevFilter) => {
+    setFilters((prevFilter) => {
         return {...prevFilter, minPrice: e.target.value}
     })
     }
@@ -23,7 +24,7 @@ export function Filter({changeFilter}){
     const handleFilterByCategory = (e) => {
         const currentCategory = e.target.value;
 
-        changeFilter((prevFilter) => {
+        setFilters((prevFilter) => {
             return {...prevFilter, category:currentCategory}
         })
     }
