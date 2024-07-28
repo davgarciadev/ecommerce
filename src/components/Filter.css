@@ -1,0 +1,10 @@
+.filter{
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter__type{
+    display: flex;
+    gap: 10px;
+    font-size: 1.2rem;
+}
