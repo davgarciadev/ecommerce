@@ -1,21 +1,16 @@
 /* eslint-disable react/prop-types */
-import { useState } from "react"
+
 import "./Filter.css"
 import { useFilter } from "../hooks/useFilter";
 
 export function Filter(){
     console.log("render [Filter]")
-    const [minPrice, setMinPrice] = useState(0);
-    const {setFilters} = useFilter()
+    const {filters, setFilters} = useFilter()
 
-    const handleMinPrice = (e) => {
-        const currentPrice = e.target.value;
-        setMinPrice(currentPrice)
-    }
+   
 
     
     const handleFilterByPrice = (e) => {
-
     setFilters((prevFilter) => {
         return {...prevFilter, minPrice: e.target.value}
     })
@@ -34,8 +29,8 @@ export function Filter(){
     return <section className="filter">
         <div className="filter__type filter__type--price">
             <label>Min.Price</label>
-            <input onChange={(e) => {handleMinPrice(e); handleFilterByPrice(e);}} type="range" min={0} max={600}></input>
-            {minPrice}
+            <input onChange={handleFilterByPrice} type="range" min={0} max={600} value={filters.minPrice}></input>
+            {filters.minPrice}
         </div>
 
         <div className="filter__type filter__type--category">

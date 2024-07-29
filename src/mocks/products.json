@@ -7,6 +7,8 @@
     "category": "beauty",
     "price": 9.99,
     "discountPercentage": 7.17,
+    
+    
     "rating": 4.94,
     "stock": 5,
     "tags": [
@@ -26,21 +28,27 @@
     "availabilityStatus": "Low Stock",
     "reviews": [
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Very unhappy with my purchase!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "John Doe",
     "reviewerEmail": "john.doe@x.dummyjson.com"
     },
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Not as described!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Nolan Gonzalez",
     "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Scarlett Wright",
@@ -67,6 +75,8 @@
     "category": "beauty",
     "price": 19.99,
     "discountPercentage": 5.5,
+    
+    
     "rating": 3.28,
     "stock": 44,
     "tags": [
@@ -86,21 +96,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Liam Garcia",
     "reviewerEmail": "liam.garcia@x.dummyjson.com"
     },
     {
-    "rating": 1,
+    
+    
+        "rating": 1,
     "comment": "Very disappointed!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Nora Russell",
     "reviewerEmail": "nora.russell@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Highly impressed!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Elena Baker",
@@ -127,6 +143,8 @@
     "category": "beauty",
     "price": 14.99,
     "discountPercentage": 18.14,
+    
+    
     "rating": 3.82,
     "stock": 59,
     "tags": [
@@ -146,21 +164,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Ethan Thompson",
     "reviewerEmail": "ethan.thompson@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Levi Hicks",
     "reviewerEmail": "levi.hicks@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Highly impressed!",
     "date": "2024-05-23T08:56:21.618Z",
     "reviewerName": "Hazel Gardner",
@@ -187,6 +211,8 @@
     "category": "beauty",
     "price": 12.99,
     "discountPercentage": 19.03,
+    
+    
     "rating": 2.51,
     "stock": 68,
     "tags": [
@@ -206,21 +232,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Leo Rivera",
     "reviewerEmail": "leo.rivera@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Oscar Powers",
     "reviewerEmail": "oscar.powers@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Carter Rivera",
@@ -247,6 +279,8 @@
     "category": "beauty",
     "price": 8.99,
     "discountPercentage": 2.46,
+    
+    
     "rating": 3.91,
     "stock": 71,
     "tags": [
@@ -266,21 +300,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Leo Rivera",
     "reviewerEmail": "leo.rivera@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Evan Reed",
     "reviewerEmail": "evan.reed@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Highly recommended!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Evelyn Sanchez",
@@ -307,6 +347,8 @@
     "category": "fragrances",
     "price": 49.99,
     "discountPercentage": 0.32,
+    
+    
     "rating": 4.85,
     "stock": 17,
     "tags": [
@@ -326,21 +368,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Sophia Brown",
     "reviewerEmail": "sophia.brown@x.dummyjson.com"
     },
     {
-    "rating": 3,
+    
+    
+        "rating": 3,
     "comment": "Very disappointed!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Madison Collins",
     "reviewerEmail": "madison.collins@x.dummyjson.com"
     },
     {
-    "rating": 1,
+    
+    
+        "rating": 1,
     "comment": "Poor quality!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Maya Reed",
@@ -369,6 +417,8 @@
     "category": "fragrances",
     "price": 129.99,
     "discountPercentage": 18.64,
+    
+    
     "rating": 2.76,
     "stock": 41,
     "tags": [
@@ -388,21 +438,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 1,
+    
+    
+        "rating": 1,
     "comment": "Disappointing product!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Lincoln Kelly",
     "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Lincoln Kelly",
     "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Lucas Allen",
@@ -431,6 +487,8 @@
     "category": "fragrances",
     "price": 89.99,
     "discountPercentage": 17.44,
+    
+    
     "rating": 3.31,
     "stock": 91,
     "tags": [
@@ -450,21 +508,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Fast shipping!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Zoe Nicholson",
     "reviewerEmail": "zoe.nicholson@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Addison Wright",
     "reviewerEmail": "addison.wright@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Clara Berry",
@@ -493,6 +557,8 @@
     "category": "fragrances",
     "price": 69.99,
     "discountPercentage": 11.47,
+    
+    
     "rating": 2.68,
     "stock": 3,
     "tags": [
@@ -512,21 +578,27 @@
     "availabilityStatus": "Low Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Xavier Wright",
     "reviewerEmail": "xavier.wright@x.dummyjson.com"
     },
     {
-    "rating": 1,
+    
+    
+        "rating": 1,
     "comment": "Poor quality!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Mila Hernandez",
     "reviewerEmail": "mila.hernandez@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.619Z",
     "reviewerName": "Sophia Brown",
@@ -555,6 +627,8 @@
     "category": "fragrances",
     "price": 79.99,
     "discountPercentage": 8.9,
+    
+    
     "rating": 2.69,
     "stock": 93,
     "tags": [
@@ -574,21 +648,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Aria Parker",
     "reviewerEmail": "aria.parker@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Natalie Harris",
     "reviewerEmail": "natalie.harris@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Fast shipping!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ava Harris",
@@ -617,6 +697,8 @@
     "category": "furniture",
     "price": 1899.99,
     "discountPercentage": 0.29,
+    
+    
     "rating": 4.14,
     "stock": 47,
     "tags": [
@@ -636,21 +718,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Julian Newton",
     "reviewerEmail": "julian.newton@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Madison Collins",
     "reviewerEmail": "madison.collins@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Clara Berry",
@@ -679,6 +767,8 @@
     "category": "furniture",
     "price": 2499.99,
     "discountPercentage": 18.54,
+    
+    
     "rating": 3.08,
     "stock": 16,
     "tags": [
@@ -698,21 +788,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Tyler Davis",
     "reviewerEmail": "tyler.davis@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Hannah Robinson",
     "reviewerEmail": "hannah.robinson@x.dummyjson.com"
     },
     {
-    "rating": 3,
+    
+    
+        "rating": 3,
     "comment": "Waste of money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Madison Collins",
@@ -741,6 +837,8 @@
     "category": "furniture",
     "price": 299.99,
     "discountPercentage": 9.58,
+    
+    
     "rating": 4.48,
     "stock": 16,
     "tags": [
@@ -760,21 +858,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "John Doe",
     "reviewerEmail": "john.doe@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Highly recommended!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Avery Carter",
     "reviewerEmail": "avery.carter@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Evelyn Sanchez",
@@ -803,6 +907,8 @@
     "category": "furniture",
     "price": 499.99,
     "discountPercentage": 15.23,
+    
+    
     "rating": 4.11,
     "stock": 47,
     "tags": [
@@ -822,21 +928,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Leah Gutierrez",
     "reviewerEmail": "leah.gutierrez@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Nolan Gonzalez",
     "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
     },
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Waste of money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Stella Morris",
@@ -865,6 +977,8 @@
     "category": "furniture",
     "price": 799.99,
     "discountPercentage": 11.22,
+    
+    
     "rating": 3.26,
     "stock": 95,
     "tags": [
@@ -884,21 +998,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Highly recommended!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Charlotte Lopez",
     "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
     },
     {
-    "rating": 1,
+    
+    
+        "rating": 1,
     "comment": "Would not recommend!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "William Gonzalez",
     "reviewerEmail": "william.gonzalez@x.dummyjson.com"
     },
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Not worth the price!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ava Harrison",
@@ -923,10 +1043,13 @@
     {
     "id": 16,
     "title": "Apple",
-    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "description": "Fresh and crisp apples, perfect for snacking or incorp",
+    
     "category": "groceries",
     "price": 1.99,
     "discountPercentage": 1.97,
+    
+    
     "rating": 2.96,
     "stock": 9,
     "tags": [
@@ -944,21 +1067,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Logan Lee",
     "reviewerEmail": "logan.lee@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Elena Long",
     "reviewerEmail": "elena.long@x.dummyjson.com"
     },
     {
-    "rating": 1,
+    
+    
+        "rating": 1,
     "comment": "Not as described!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Grayson Coleman",
@@ -985,6 +1114,8 @@
     "category": "groceries",
     "price": 12.99,
     "discountPercentage": 17.99,
+    
+    
     "rating": 2.83,
     "stock": 96,
     "tags": [
@@ -1002,21 +1133,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ethan Martinez",
     "reviewerEmail": "ethan.martinez@x.dummyjson.com"
     },
     {
-    "rating": 3,
+    
+    
+        "rating": 3,
     "comment": "Disappointing product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Owen Fisher",
     "reviewerEmail": "owen.fisher@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Scarlett Wright",
@@ -1043,6 +1180,8 @@
     "category": "groceries",
     "price": 8.99,
     "discountPercentage": 9.57,
+    
+    
     "rating": 2.88,
     "stock": 13,
     "tags": [
@@ -1061,21 +1200,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Mateo Bennett",
     "reviewerEmail": "mateo.bennett@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Aurora Barnes",
     "reviewerEmail": "aurora.barnes@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ellie Stewart",
@@ -1102,6 +1247,8 @@
     "category": "groceries",
     "price": 9.99,
     "discountPercentage": 10.46,
+    
+    
     "rating": 4.61,
     "stock": 69,
     "tags": [
@@ -1119,21 +1266,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Sophia Jones",
     "reviewerEmail": "sophia.jones@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Maya Reed",
     "reviewerEmail": "maya.reed@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Highly recommended!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Harper Turner",
@@ -1161,6 +1314,8 @@
     "category": "groceries",
     "price": 4.99,
     "discountPercentage": 18.89,
+    
+    
     "rating": 4.01,
     "stock": 22,
     "tags": [
@@ -1178,21 +1333,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Mason Parker",
     "reviewerEmail": "mason.parker@x.dummyjson.com"
     },
     {
-    "rating": 3,
+    
+    
+        "rating": 3,
     "comment": "Poor quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Jonathan Pierce",
     "reviewerEmail": "jonathan.pierce@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Alexander Hernandez",
@@ -1215,10 +1376,14 @@
     {
     "id": 21,
     "title": "Cucumber",
-    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "description": "Crisp and hy drating cucumbers, ideal for salads, snacks, or  as a refreshing side.",
+    
+  
     "category": "groceries",
     "price": 1.49,
     "discountPercentage": 11.44,
+    
+    
     "rating": 4.71,
     "stock": 22,
     "tags": [
@@ -1236,21 +1401,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Elijah Hill",
     "reviewerEmail": "elijah.hill@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Fast shipping!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Liam Garcia",
     "reviewerEmail": "liam.garcia@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ella Cook",
@@ -1277,6 +1448,8 @@
     "category": "groceries",
     "price": 10.99,
     "discountPercentage": 18.15,
+    
+    
     "rating": 2.74,
     "stock": 40,
     "tags": [
@@ -1295,21 +1468,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Highly impressed!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Leo Rivera",
     "reviewerEmail": "leo.rivera@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Highly recommended!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Alexander Jones",
     "reviewerEmail": "alexander.jones@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Addison Wright",
@@ -1336,6 +1515,8 @@
     "category": "groceries",
     "price": 2.99,
     "discountPercentage": 5.8,
+    
+    
     "rating": 4.46,
     "stock": 10,
     "tags": [
@@ -1353,21 +1534,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Very unhappy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Mateo Perez",
     "reviewerEmail": "mateo.perez@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Cameron Perez",
     "reviewerEmail": "cameron.perez@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Aurora Barnes",
@@ -1394,6 +1581,8 @@
     "category": "groceries",
     "price": 14.99,
     "discountPercentage": 7,
+    
+    
     "rating": 4.83,
     "stock": 99,
     "tags": [
@@ -1411,21 +1600,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great value for money!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Michael Johnson",
     "reviewerEmail": "michael.johnson@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Julian Newton",
     "reviewerEmail": "julian.newton@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Lila Hudson",
@@ -1452,6 +1647,8 @@
     "category": "groceries",
     "price": 1.29,
     "discountPercentage": 15.5,
+    
+    
     "rating": 4.28,
     "stock": 89,
     "tags": [
@@ -1469,21 +1666,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Maya Reed",
     "reviewerEmail": "maya.reed@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Madison Collins",
     "reviewerEmail": "madison.collins@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Would buy again!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ethan Thompson",
@@ -1510,6 +1713,8 @@
     "category": "groceries",
     "price": 0.99,
     "discountPercentage": 18.51,
+    
+    
     "rating": 4.43,
     "stock": 8,
     "tags": [
@@ -1527,21 +1732,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Disappointing product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Mateo Bennett",
     "reviewerEmail": "mateo.bennett@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Natalie Price",
     "reviewerEmail": "natalie.price@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Avery Barnes",
@@ -1568,6 +1779,8 @@
     "category": "groceries",
     "price": 6.99,
     "discountPercentage": 1.91,
+    
+    
     "rating": 3.5,
     "stock": 25,
     "tags": [
@@ -1585,21 +1798,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Fast shipping!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Nicholas Bailey",
     "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Awesome product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Gabriel Hayes",
     "reviewerEmail": "gabriel.hayes@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Highly impressed!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "James Garcia",
@@ -1626,6 +1845,8 @@
     "category": "groceries",
     "price": 5.49,
     "discountPercentage": 7.58,
+    
+    
     "rating": 3.77,
     "stock": 76,
     "tags": [
@@ -1643,21 +1864,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Elena Baker",
     "reviewerEmail": "elena.baker@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Highly impressed!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Madeline Simpson",
     "reviewerEmail": "madeline.simpson@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very happy with my purchase!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Caleb Nelson",
@@ -1687,6 +1914,8 @@
     "category": "groceries",
     "price": 3.99,
     "discountPercentage": 5.45,
+    
+    
     "rating": 3.41,
     "stock": 99,
     "tags": [
@@ -1704,21 +1933,27 @@
     "availabilityStatus": "In Stock",
     "reviews": [
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Very satisfied!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Leo Rivera",
     "reviewerEmail": "leo.rivera@x.dummyjson.com"
     },
     {
-    "rating": 2,
+    
+    
+        "rating": 2,
     "comment": "Not worth the price!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Ethan Martinez",
     "reviewerEmail": "ethan.martinez@x.dummyjson.com"
     },
     {
-    "rating": 4,
+    
+    
+        "rating": 4,
     "comment": "Excellent quality!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Max Parker",
@@ -1745,6 +1980,8 @@
     "category": "groceries",
     "price": 2.49,
     "discountPercentage": 10.32,
+    
+    
     "rating": 4.37,
     "stock": 1,
     "tags": [
@@ -1762,21 +1999,27 @@
     "availabilityStatus": "Low Stock",
     "reviews": [
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Nora Russell",
     "reviewerEmail": "nora.russell@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Very pleased!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Dylan Wells",
     "reviewerEmail": "dylan.wells@x.dummyjson.com"
     },
     {
-    "rating": 5,
+    
+    
+        "rating": 5,
     "comment": "Great product!",
     "date": "2024-05-23T08:56:21.620Z",
     "reviewerName": "Noah Hernandez",

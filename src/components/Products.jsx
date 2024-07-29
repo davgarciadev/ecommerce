@@ -1,11 +1,21 @@
 /* eslint-disable react/prop-types */
-import { AddToCartIcon } from "./Icons"
+import { useCart } from "../hooks/useCart"
+import { AddToCartIcon, RemoveFromCartIcon } from "./Icons"
 import "./Products.css"
 
 
 
 export function Products({products}){
     console.log("render [Products]")
+    const {cart, addToCart, removeFromCart} = useCart();
+
+
+    const isProductOnCart = (product) => {
+        return cart.some(cartProduct => cartProduct.id === product.id)
+    }
+
+    
+
     return (
         <main className="products">
             <ul className="products__ul">
@@ -18,8 +28,16 @@ export function Products({products}){
                                     <p className="product__title"><strong>{product.title}</strong></p>
                                     <p className="product__price">{product.price}€</p>
                                 </div>
-                                <div className="product__icon">
-                                    <AddToCartIcon></AddToCartIcon>
+                                <div className="product__icon" style={{backgroundColor: isProductOnCart(product) ? "red" : "rgb(29, 153, 255)"}}onClick={
+                                    () =>{
+                                        isProductOnCart(product)
+                                            ? removeFromCart(product)
+                                            : addToCart(product)} }>
+                                    { isProductOnCart(product)
+                                            ? <RemoveFromCartIcon className="product__rmv-btn"></RemoveFromCartIcon>
+                                            : <AddToCartIcon className="product__add-btn"></AddToCartIcon>
+                                    }
+                                    
                                 </div>
                             </article>
                         </li>
