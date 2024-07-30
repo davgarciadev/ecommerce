@@ -7,6 +7,7 @@
     padding: 32px;
     display: none;
     transition: all 0.3s ease;
+    overflow-y: auto;
 
 }
 
@@ -40,7 +41,7 @@
 }
 
 .cart__img{
-    width: 250px;
+    width: 200px;
 }
 
 .cart__product-info{
